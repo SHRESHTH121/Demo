@@ -30,4 +30,4 @@ git stash
 12>to add stashed changes 
 git stash apply
 13>to delete stash
-git stash delete
+git stash clear
