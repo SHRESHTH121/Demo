@@ -14,5 +14,8 @@ if a file is commited then git status treats it as a pure file and does not retu
 git branch branchname
 5> to view current branches 
 git branch
+6>to enter into a branch
+git switch branch name
+we can also use it to switch to main
 
 
