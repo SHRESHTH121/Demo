@@ -1,0 +1,12 @@
+git commands
+1> to view commited files and current location of head->
+git log --oneline 
+* oneline is not necessary but fetches us only required info
+
+2> to move to some previous comitted file i.e move head position
+git reset --hard HEAD~1
+* 1 moves it one position back and hard makes this change everywhere
+3> to check  status of all current files
+git status -s 
+here also s is optional but fetches us only required info 
+
