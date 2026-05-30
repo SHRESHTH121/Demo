@@ -10,4 +10,9 @@ git reset --hard HEAD~1
 git status -s 
 here also s is optional but fetches us only required info 
 if a file is commited then git status treats it as a pure file and does not return anything about it i.e no status for that purpose we use git log command
+4> to add a branch 
+git branch branchname
+5> to view current branches 
+git branch
+
 
