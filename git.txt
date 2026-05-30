@@ -23,3 +23,11 @@ git merge branchname
 git log --oneline --graph
 9>to delete a branch
 git branch -d branchname
+10>to create and switch a branch togather
+git switch -C branchname
+11>to make changes in a branch but switch branch without committing them i.e stashing them
+git stash
+12>to add stashed changes 
+git stash apply
+13>to delete stash
+git stash delete
