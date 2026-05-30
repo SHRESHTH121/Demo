@@ -17,5 +17,6 @@ git branch
 6>to enter into a branch
 git switch branch name
 we can also use it to switch to main
-
+7>to merge branch to main code go to main code and
+git merge branchname
 
